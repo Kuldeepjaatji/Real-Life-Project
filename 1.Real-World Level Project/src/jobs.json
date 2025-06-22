@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "Frontend Developer",
+    "company": "Techie Pvt Ltd",
+    "location": "Remote",
+    "type": "Full Time",
+    "description": "Build responsive UIs using React.",
+    "postedAt": "2025-06-21"
+  },
+  {
+    "id": "2",
+    "title": "Backend Engineer",
+    "company": "CodeSmith",
+    "location": "Bangalore",
+    "type": "Part Time",
+    "description": "Node.js and API development.",
+    "postedAt": "2025-06-20"
+  }
+]
